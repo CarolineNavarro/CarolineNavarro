@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CarolineNavarro
-- 👀 I’m interested in expanding my knowledge in different programming languages
-- 🌱 I’m currently learning Web development 
-- 📫 How to reach me: carolinenavarro025@gmail.com
+My name is Caroline Navarro, I'm from Brazil. I'm a graduate student in computer engineering and I'm currently taking an extracurricular course in web development
+How to reach me: carolinenavarro025@gmail.com
 
 <!---
 CarolineNavarro/CarolineNavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
