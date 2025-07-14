@@ -1,6 +1,6 @@
 Hello \o/
 
-My name is Caroline Navarro, I'm from Brazil. 
+My name is Caroline Navarro, I'm 21 and from Brazil. 
 I'm a computer engineering student and I'm currently taking an extracurricular course in web development.
 
 How to reach me: carolinenavarro025@gmail.com
